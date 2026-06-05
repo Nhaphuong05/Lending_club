@@ -3,7 +3,7 @@
 An interactive web application for credit risk assessment and risk-based loan pricing. This project applies advanced Data Science workflows to predict the optimal interest rate for borrowers based on their financial and credit risk profiles.
 
 🚀 **Live Demo:** [View Streamlit Web App](https://lendingclub-analytics.streamlit.app/)
-
+📊 **Full Dataset:** [Lending Club Dataset on Kaggle](https://www.kaggle.com/datasets/fuong123/data-bai1/)
 ---
 
 ## 📌 Project Overview
