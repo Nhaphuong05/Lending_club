@@ -1,0 +1,9 @@
+# Bỏ qua file dữ liệu gốc dung lượng lớn
+data.csv
+
+# Bỏ qua các thư mục đệm của python và streamlit
+__pycache__/
+.streamlit/
+.virtualenv/
+v env/
+.DS_Store
